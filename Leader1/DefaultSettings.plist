@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Track Unit</key>
+	<real>0</real>
+	<key>Energy Variance</key>
+	<integer>15</integer>
+	<key>Energy Refreshes</key>
+	<integer>20</integer>
+	<key>Energy Sprint</key>
+	<integer>15</integer>
+	<key>Tiles Variance</key>
+	<integer>10</integer>
+	<key>Tiles Refreshes</key>
+	<integer>5</integer>
+	<key>Tiles Sprint</key>
+	<integer>7</integer>
+	<key>Box HN</key>
+	<true/>
+	<key>Box GI</key>
+	<true/>
+</dict>
+</plist>
